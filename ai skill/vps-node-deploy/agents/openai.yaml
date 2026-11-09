@@ -1,0 +1,4 @@
+interface:
+  display_name: "VPS 节点部署与购买指南"
+  short_description: "从自有 VPS 登录信息部署节点，交付三种客户端配置、链接与测试报告"
+  default_prompt: "请使用 $vps-node-deploy 检查我提供的 VPS，保留已有服务，部署并验证节点，交付 Clash、v2rayN、Shadowrocket 配置与二维码；尚未购买时先指导购买。"
